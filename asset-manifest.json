@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/meals_scrolly/static/css/main.9821b8f9.chunk.css",
-    "main.js": "/meals_scrolly/static/js/main.dfb57f89.chunk.js",
-    "main.js.map": "/meals_scrolly/static/js/main.dfb57f89.chunk.js.map",
-    "runtime-main.js": "/meals_scrolly/static/js/runtime-main.fe20b4a5.js",
-    "runtime-main.js.map": "/meals_scrolly/static/js/runtime-main.fe20b4a5.js.map",
-    "static/js/2.58ca4a44.chunk.js": "/meals_scrolly/static/js/2.58ca4a44.chunk.js",
-    "static/js/2.58ca4a44.chunk.js.map": "/meals_scrolly/static/js/2.58ca4a44.chunk.js.map",
-    "static/js/3.8eeefd49.chunk.js": "/meals_scrolly/static/js/3.8eeefd49.chunk.js",
-    "static/js/3.8eeefd49.chunk.js.map": "/meals_scrolly/static/js/3.8eeefd49.chunk.js.map",
+    "main.js": "/meals_scrolly/static/js/main.c4317c72.chunk.js",
+    "main.js.map": "/meals_scrolly/static/js/main.c4317c72.chunk.js.map",
+    "runtime-main.js": "/meals_scrolly/static/js/runtime-main.bd895c93.js",
+    "runtime-main.js.map": "/meals_scrolly/static/js/runtime-main.bd895c93.js.map",
+    "static/js/2.34e4a425.chunk.js": "/meals_scrolly/static/js/2.34e4a425.chunk.js",
+    "static/js/2.34e4a425.chunk.js.map": "/meals_scrolly/static/js/2.34e4a425.chunk.js.map",
+    "static/js/3.1bca174f.chunk.js": "/meals_scrolly/static/js/3.1bca174f.chunk.js",
+    "static/js/3.1bca174f.chunk.js.map": "/meals_scrolly/static/js/3.1bca174f.chunk.js.map",
     "index.html": "/meals_scrolly/index.html",
     "static/css/main.9821b8f9.chunk.css.map": "/meals_scrolly/static/css/main.9821b8f9.chunk.css.map",
-    "static/js/2.58ca4a44.chunk.js.LICENSE.txt": "/meals_scrolly/static/js/2.58ca4a44.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/meals_scrolly/static/media/logo.6ce24c58.svg"
+    "static/js/2.34e4a425.chunk.js.LICENSE.txt": "/meals_scrolly/static/js/2.34e4a425.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/meals_scrolly/static/media/logo.6ce24c58.svg",
+    "static/media/meals.2b9dda03.csv": "/meals_scrolly/static/media/meals.2b9dda03.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe20b4a5.js",
-    "static/js/2.58ca4a44.chunk.js",
+    "static/js/runtime-main.bd895c93.js",
+    "static/js/2.34e4a425.chunk.js",
     "static/css/main.9821b8f9.chunk.css",
-    "static/js/main.dfb57f89.chunk.js"
+    "static/js/main.c4317c72.chunk.js"
   ]
 }
