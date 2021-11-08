@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Signika+Negative:wght@300&family=Signika:wght@500&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Signika', sans-serif;
+  font-family: 'Signika Negative', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FAFF81;
+  /* background-image: url("https://st2.depositphotos.com/8392720/11641/v/950/depositphotos_116413272-stock-illustration-seamless-exotic-fruit-pattern.jpg"); */
+  
+}
+
+
+code {
+
+}
