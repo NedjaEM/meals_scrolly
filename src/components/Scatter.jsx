@@ -148,7 +148,6 @@ function Scatter({ data }) {
                 .attr("transform", "rotate(45)")
 
 
-
             svg
                 .append("g")
                 .attr("class", "axis y-axis")
@@ -161,6 +160,21 @@ function Scatter({ data }) {
                 .attr("font-family", "Signika Negative, sans-serif")
                 .style("color", "#161032")
                 .style("font-size", "15px")
+
+
+            svg.append("text")
+                .attr("class", "x label")
+                .attr("text-anchor", "end")
+                .attr("x", width - 1.5*margin.right)
+                .attr("y", height - 2*margin.bottom)
+                .text("Date");
+
+            svg.append("text")
+                .attr("class", "y label")
+                .attr("text-anchor", "end")
+                .attr("x", 1.5*margin.left)
+                .attr("y", margin.bottom)
+                .text("Rating of Food");
 
 
             //Append a defs (for definition) element to your SVG
