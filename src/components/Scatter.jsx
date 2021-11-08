@@ -23,7 +23,7 @@ function Scatter({ data }) {
             const svg = d3.select("#d3-container")
                 .append("svg")
                 .attr("width", width)
-                .attr("height", height + 100);
+                .attr("height", height);
 
             const div =
                 svg
@@ -101,7 +101,7 @@ function Scatter({ data }) {
                                     .style("padding-left", "5%")
                                     .style("font-family", "Signika Negative, sans-serif")
                                     .html(
-                                        "<h3>" + d.Meal + " " + d.Date + "</h3> <div class='description'> <h4>" + d.Dish + "</h4></div><div class='social'><ul><li>" + d.cuisine + "</li><li>meat: " + d.meat + "</li><li>" + d.restaurant + "</li> </ul> <p>" + d.healthy + "</p>"
+                                        "<h3>" + d.Meal + " " + d.Date + "</h3> <div class='description'> <h4>" + d.Dish + "</h4></div><div class='social'><ul><li>" + d.cuisine + "</li><li>meat: " + d.meat + "</li><li>" + d.restaurant + "</li> </ul> <p>healthy: " + d.healthy + "</p>"
                                     )
 
 
